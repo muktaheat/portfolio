@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/muktaheat/portfolio/static/css/main.8574e5ad.chunk.css",
-    "main.js": "/muktaheat/portfolio/static/js/main.0c50d29b.chunk.js",
-    "main.js.map": "/muktaheat/portfolio/static/js/main.0c50d29b.chunk.js.map",
-    "runtime~main.js": "/muktaheat/portfolio/static/js/runtime~main.d43c132b.js",
-    "runtime~main.js.map": "/muktaheat/portfolio/static/js/runtime~main.d43c132b.js.map",
-    "static/js/2.b7768fc8.chunk.js": "/muktaheat/portfolio/static/js/2.b7768fc8.chunk.js",
-    "static/js/2.b7768fc8.chunk.js.map": "/muktaheat/portfolio/static/js/2.b7768fc8.chunk.js.map",
-    "index.html": "/muktaheat/portfolio/index.html",
-    "precache-manifest.189f91577be4e1777327b7b81b1fc5d5.js": "/muktaheat/portfolio/precache-manifest.189f91577be4e1777327b7b81b1fc5d5.js",
-    "service-worker.js": "/muktaheat/portfolio/service-worker.js",
-    "static/css/main.8574e5ad.chunk.css.map": "/muktaheat/portfolio/static/css/main.8574e5ad.chunk.css.map",
-    "static/media/index.css": "/muktaheat/portfolio/static/media/law.70af7091.jpg",
-    "static/media/abbu.jpg": "/muktaheat/portfolio/static/media/abbu.e3a0ccc4.jpg",
-    "static/media/bb.jpg": "/muktaheat/portfolio/static/media/bb.49b89b53.jpg",
-    "static/media/call.jpg": "/muktaheat/portfolio/static/media/call.5ffd8424.jpg",
-    "static/media/email.jpg": "/muktaheat/portfolio/static/media/email.3aba56da.jpg",
-    "static/media/uncle.jpg": "/muktaheat/portfolio/static/media/uncle.8933e750.jpg"
+    "main.css": "./static/css/main.4fb5797a.chunk.css",
+    "main.js": "./static/js/main.83f83c21.chunk.js",
+    "main.js.map": "./static/js/main.83f83c21.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.c40b959e.js",
+    "runtime~main.js.map": "./static/js/runtime~main.c40b959e.js.map",
+    "static/js/2.b7768fc8.chunk.js": "./static/js/2.b7768fc8.chunk.js",
+    "static/js/2.b7768fc8.chunk.js.map": "./static/js/2.b7768fc8.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.1905dd1bc4ea5f1f6a1641a116af5929.js": "./precache-manifest.1905dd1bc4ea5f1f6a1641a116af5929.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.4fb5797a.chunk.css.map": "./static/css/main.4fb5797a.chunk.css.map",
+    "static/media/index.css": "./static/media/law.70af7091.jpg",
+    "static/media/abbu.jpg": "./static/media/abbu.e3a0ccc4.jpg",
+    "static/media/bb.jpg": "./static/media/bb.49b89b53.jpg",
+    "static/media/call.jpg": "./static/media/call.5ffd8424.jpg",
+    "static/media/email.jpg": "./static/media/email.3aba56da.jpg",
+    "static/media/uncle.jpg": "./static/media/uncle.8933e750.jpg"
   }
 }

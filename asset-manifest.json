@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.4fb5797a.chunk.css",
-    "main.js": "./static/js/main.83f83c21.chunk.js",
-    "main.js.map": "./static/js/main.83f83c21.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.c40b959e.js",
-    "runtime~main.js.map": "./static/js/runtime~main.c40b959e.js.map",
-    "static/js/2.b7768fc8.chunk.js": "./static/js/2.b7768fc8.chunk.js",
-    "static/js/2.b7768fc8.chunk.js.map": "./static/js/2.b7768fc8.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.1905dd1bc4ea5f1f6a1641a116af5929.js": "./precache-manifest.1905dd1bc4ea5f1f6a1641a116af5929.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.4fb5797a.chunk.css.map": "./static/css/main.4fb5797a.chunk.css.map",
-    "static/media/index.css": "./static/media/law.70af7091.jpg",
-    "static/media/abbu.jpg": "./static/media/abbu.e3a0ccc4.jpg",
-    "static/media/bb.jpg": "./static/media/bb.49b89b53.jpg",
-    "static/media/call.jpg": "./static/media/call.5ffd8424.jpg",
-    "static/media/email.jpg": "./static/media/email.3aba56da.jpg",
-    "static/media/uncle.jpg": "./static/media/uncle.8933e750.jpg"
+    "main.css": "/portfolio/settings/static/css/main.a352c2d9.chunk.css",
+    "main.js": "/portfolio/settings/static/js/main.f7b684de.chunk.js",
+    "main.js.map": "/portfolio/settings/static/js/main.f7b684de.chunk.js.map",
+    "runtime~main.js": "/portfolio/settings/static/js/runtime~main.d9dbbedf.js",
+    "runtime~main.js.map": "/portfolio/settings/static/js/runtime~main.d9dbbedf.js.map",
+    "static/js/2.b7768fc8.chunk.js": "/portfolio/settings/static/js/2.b7768fc8.chunk.js",
+    "static/js/2.b7768fc8.chunk.js.map": "/portfolio/settings/static/js/2.b7768fc8.chunk.js.map",
+    "index.html": "/portfolio/settings/index.html",
+    "precache-manifest.699e5e2c8754227091a1ab3f2be1b081.js": "/portfolio/settings/precache-manifest.699e5e2c8754227091a1ab3f2be1b081.js",
+    "service-worker.js": "/portfolio/settings/service-worker.js",
+    "static/css/main.a352c2d9.chunk.css.map": "/portfolio/settings/static/css/main.a352c2d9.chunk.css.map",
+    "static/media/index.css": "/portfolio/settings/static/media/law.70af7091.jpg",
+    "static/media/abbu.jpg": "/portfolio/settings/static/media/abbu.e3a0ccc4.jpg",
+    "static/media/bb.jpg": "/portfolio/settings/static/media/bb.49b89b53.jpg",
+    "static/media/call.jpg": "/portfolio/settings/static/media/call.5ffd8424.jpg",
+    "static/media/email.jpg": "/portfolio/settings/static/media/email.3aba56da.jpg",
+    "static/media/uncle.jpg": "/portfolio/settings/static/media/uncle.8933e750.jpg"
   }
 }

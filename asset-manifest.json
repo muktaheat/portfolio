@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/muktaheat/portfolio.git/static/css/main.325ae36b.chunk.css",
-    "main.js": "/muktaheat/portfolio.git/static/js/main.a3828518.chunk.js",
-    "main.js.map": "/muktaheat/portfolio.git/static/js/main.a3828518.chunk.js.map",
-    "runtime~main.js": "/muktaheat/portfolio.git/static/js/runtime~main.9763da2f.js",
-    "runtime~main.js.map": "/muktaheat/portfolio.git/static/js/runtime~main.9763da2f.js.map",
-    "static/js/2.b7768fc8.chunk.js": "/muktaheat/portfolio.git/static/js/2.b7768fc8.chunk.js",
-    "static/js/2.b7768fc8.chunk.js.map": "/muktaheat/portfolio.git/static/js/2.b7768fc8.chunk.js.map",
-    "index.html": "/muktaheat/portfolio.git/index.html",
-    "precache-manifest.318e7cb04481678077e97f938fe6d75f.js": "/muktaheat/portfolio.git/precache-manifest.318e7cb04481678077e97f938fe6d75f.js",
-    "service-worker.js": "/muktaheat/portfolio.git/service-worker.js",
-    "static/css/main.325ae36b.chunk.css.map": "/muktaheat/portfolio.git/static/css/main.325ae36b.chunk.css.map",
-    "static/media/index.css": "/muktaheat/portfolio.git/static/media/law.70af7091.jpg",
-    "static/media/abbu.jpg": "/muktaheat/portfolio.git/static/media/abbu.e3a0ccc4.jpg",
-    "static/media/bb.jpg": "/muktaheat/portfolio.git/static/media/bb.49b89b53.jpg",
-    "static/media/call.jpg": "/muktaheat/portfolio.git/static/media/call.5ffd8424.jpg",
-    "static/media/email.jpg": "/muktaheat/portfolio.git/static/media/email.3aba56da.jpg",
-    "static/media/uncle.jpg": "/muktaheat/portfolio.git/static/media/uncle.8933e750.jpg"
+    "main.css": "/muktaheat/portfolio/static/css/main.8574e5ad.chunk.css",
+    "main.js": "/muktaheat/portfolio/static/js/main.0c50d29b.chunk.js",
+    "main.js.map": "/muktaheat/portfolio/static/js/main.0c50d29b.chunk.js.map",
+    "runtime~main.js": "/muktaheat/portfolio/static/js/runtime~main.d43c132b.js",
+    "runtime~main.js.map": "/muktaheat/portfolio/static/js/runtime~main.d43c132b.js.map",
+    "static/js/2.b7768fc8.chunk.js": "/muktaheat/portfolio/static/js/2.b7768fc8.chunk.js",
+    "static/js/2.b7768fc8.chunk.js.map": "/muktaheat/portfolio/static/js/2.b7768fc8.chunk.js.map",
+    "index.html": "/muktaheat/portfolio/index.html",
+    "precache-manifest.189f91577be4e1777327b7b81b1fc5d5.js": "/muktaheat/portfolio/precache-manifest.189f91577be4e1777327b7b81b1fc5d5.js",
+    "service-worker.js": "/muktaheat/portfolio/service-worker.js",
+    "static/css/main.8574e5ad.chunk.css.map": "/muktaheat/portfolio/static/css/main.8574e5ad.chunk.css.map",
+    "static/media/index.css": "/muktaheat/portfolio/static/media/law.70af7091.jpg",
+    "static/media/abbu.jpg": "/muktaheat/portfolio/static/media/abbu.e3a0ccc4.jpg",
+    "static/media/bb.jpg": "/muktaheat/portfolio/static/media/bb.49b89b53.jpg",
+    "static/media/call.jpg": "/muktaheat/portfolio/static/media/call.5ffd8424.jpg",
+    "static/media/email.jpg": "/muktaheat/portfolio/static/media/email.3aba56da.jpg",
+    "static/media/uncle.jpg": "/muktaheat/portfolio/static/media/uncle.8933e750.jpg"
   }
 }

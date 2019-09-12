@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio.git/static/css/main.423695b5.chunk.css",
-    "main.js": "/portfolio.git/static/js/main.be882653.chunk.js",
-    "main.js.map": "/portfolio.git/static/js/main.be882653.chunk.js.map",
-    "runtime~main.js": "/portfolio.git/static/js/runtime~main.82c19536.js",
-    "runtime~main.js.map": "/portfolio.git/static/js/runtime~main.82c19536.js.map",
-    "static/js/2.b7768fc8.chunk.js": "/portfolio.git/static/js/2.b7768fc8.chunk.js",
-    "static/js/2.b7768fc8.chunk.js.map": "/portfolio.git/static/js/2.b7768fc8.chunk.js.map",
-    "index.html": "/portfolio.git/index.html",
-    "precache-manifest.f280622930a5a8836310809fd77f9692.js": "/portfolio.git/precache-manifest.f280622930a5a8836310809fd77f9692.js",
-    "service-worker.js": "/portfolio.git/service-worker.js",
-    "static/css/main.423695b5.chunk.css.map": "/portfolio.git/static/css/main.423695b5.chunk.css.map",
-    "static/media/index.css": "/portfolio.git/static/media/law.70af7091.jpg",
-    "static/media/abbu.jpg": "/portfolio.git/static/media/abbu.e3a0ccc4.jpg",
-    "static/media/bb.jpg": "/portfolio.git/static/media/bb.49b89b53.jpg",
-    "static/media/call.jpg": "/portfolio.git/static/media/call.5ffd8424.jpg",
-    "static/media/email.jpg": "/portfolio.git/static/media/email.3aba56da.jpg",
-    "static/media/uncle.jpg": "/portfolio.git/static/media/uncle.8933e750.jpg"
+    "main.css": "/portfolio/static/css/main.222b530d.chunk.css",
+    "main.js": "/portfolio/static/js/main.68f8e4ee.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.68f8e4ee.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.ae1b787c.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.ae1b787c.js.map",
+    "static/js/2.b7768fc8.chunk.js": "/portfolio/static/js/2.b7768fc8.chunk.js",
+    "static/js/2.b7768fc8.chunk.js.map": "/portfolio/static/js/2.b7768fc8.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.734f1d81b79bb90ae7a076350a92977d.js": "/portfolio/precache-manifest.734f1d81b79bb90ae7a076350a92977d.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.222b530d.chunk.css.map": "/portfolio/static/css/main.222b530d.chunk.css.map",
+    "static/media/index.css": "/portfolio/static/media/law.70af7091.jpg",
+    "static/media/abbu.jpg": "/portfolio/static/media/abbu.e3a0ccc4.jpg",
+    "static/media/bb.jpg": "/portfolio/static/media/bb.49b89b53.jpg",
+    "static/media/call.jpg": "/portfolio/static/media/call.5ffd8424.jpg",
+    "static/media/email.jpg": "/portfolio/static/media/email.3aba56da.jpg",
+    "static/media/uncle.jpg": "/portfolio/static/media/uncle.8933e750.jpg"
   }
 }

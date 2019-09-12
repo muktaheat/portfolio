@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/law.git/static/css/main.96ca970d.chunk.css",
-    "main.js": "/law.git/static/js/main.e4c5f336.chunk.js",
-    "main.js.map": "/law.git/static/js/main.e4c5f336.chunk.js.map",
-    "runtime~main.js": "/law.git/static/js/runtime~main.0e7205a0.js",
-    "runtime~main.js.map": "/law.git/static/js/runtime~main.0e7205a0.js.map",
-    "static/js/2.b7768fc8.chunk.js": "/law.git/static/js/2.b7768fc8.chunk.js",
-    "static/js/2.b7768fc8.chunk.js.map": "/law.git/static/js/2.b7768fc8.chunk.js.map",
-    "index.html": "/law.git/index.html",
-    "precache-manifest.287b200098290389382f130c884d7873.js": "/law.git/precache-manifest.287b200098290389382f130c884d7873.js",
-    "service-worker.js": "/law.git/service-worker.js",
-    "static/css/main.96ca970d.chunk.css.map": "/law.git/static/css/main.96ca970d.chunk.css.map",
-    "static/media/index.css": "/law.git/static/media/law.70af7091.jpg",
-    "static/media/abbu.jpg": "/law.git/static/media/abbu.e3a0ccc4.jpg",
-    "static/media/bb.jpg": "/law.git/static/media/bb.49b89b53.jpg",
-    "static/media/call.jpg": "/law.git/static/media/call.5ffd8424.jpg",
-    "static/media/email.jpg": "/law.git/static/media/email.3aba56da.jpg",
-    "static/media/uncle.jpg": "/law.git/static/media/uncle.8933e750.jpg"
+    "main.css": "/portfolio.git/static/css/main.423695b5.chunk.css",
+    "main.js": "/portfolio.git/static/js/main.be882653.chunk.js",
+    "main.js.map": "/portfolio.git/static/js/main.be882653.chunk.js.map",
+    "runtime~main.js": "/portfolio.git/static/js/runtime~main.82c19536.js",
+    "runtime~main.js.map": "/portfolio.git/static/js/runtime~main.82c19536.js.map",
+    "static/js/2.b7768fc8.chunk.js": "/portfolio.git/static/js/2.b7768fc8.chunk.js",
+    "static/js/2.b7768fc8.chunk.js.map": "/portfolio.git/static/js/2.b7768fc8.chunk.js.map",
+    "index.html": "/portfolio.git/index.html",
+    "precache-manifest.f280622930a5a8836310809fd77f9692.js": "/portfolio.git/precache-manifest.f280622930a5a8836310809fd77f9692.js",
+    "service-worker.js": "/portfolio.git/service-worker.js",
+    "static/css/main.423695b5.chunk.css.map": "/portfolio.git/static/css/main.423695b5.chunk.css.map",
+    "static/media/index.css": "/portfolio.git/static/media/law.70af7091.jpg",
+    "static/media/abbu.jpg": "/portfolio.git/static/media/abbu.e3a0ccc4.jpg",
+    "static/media/bb.jpg": "/portfolio.git/static/media/bb.49b89b53.jpg",
+    "static/media/call.jpg": "/portfolio.git/static/media/call.5ffd8424.jpg",
+    "static/media/email.jpg": "/portfolio.git/static/media/email.3aba56da.jpg",
+    "static/media/uncle.jpg": "/portfolio.git/static/media/uncle.8933e750.jpg"
   }
 }
